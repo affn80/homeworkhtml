@@ -1,0 +1,93 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #787676;
+    color: #080808fa;
+    margin: 20px;
+}
+h2 {
+    background-color: gold;
+}
+#marcostitulos{
+    background-color: yellow;
+    border: 2px solid rgb(2, 2, 0);
+    width: 85vw;
+    margin: auto;
+    padding: 3em;
+}
+#marcoimagenes{
+    background-color: blue;    
+    width: 85vw;
+    margin: auto;
+    margin-top: 2em;
+    border: 2px;
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+    
+#cuadromenucatalogo{
+        border: 2px solid black;
+        width: 80vw;
+        margin: 2px;
+        padding: 2em;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+    .recuadrologo{
+        border: 2px solid black;
+        margin: 0px 2px 0px 2px;
+        width: 10vw;
+        padding: 2em;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+#cuadroimagennuestrosclientes{
+    border: 2px solid black;
+    margin: auto;
+    padding: 2em;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    }
+        
+
+.imagenpublicitaria{
+    border: 2px solid black;
+    padding: 1em;
+    width: 10em;
+}
+
+.logos{
+    width: 5em;
+}
+.logos{
+    margin: auto;
+    padding: 2px;
+
+}
+
+
+.subtitulos{
+    font-size: 1.5em;
+    }
+
+#tituloprincipal{
+    font-size: 3em;
+}
+
+#menusubtitulos{
+    font-size: 2em;
+}
+
+
+
+
+
+
+
+
